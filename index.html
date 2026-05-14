@@ -66,7 +66,7 @@
     <!-- CSS for Side Ads -->
     <style>
         @media (min-width: 1600px) {
-            .side-ad-left { display: block !important; }
+            .side-ad-left, .side-ad-right { display: block !important; }
         }
     </style>
 </head>
@@ -232,7 +232,21 @@
         </section>
 
         <!-- Documents Section -->
-        <section id="documents" class="section-padding">
+        <section id="documents" class="section-padding" style="position: relative;">
+            <!-- Side Banner (160x300) - Right Side -->
+            <div class="side-ad-right" style="position: absolute; right: -180px; top: 100px; display: none;">
+                <script>
+                    atOptions = {
+                        'key' : '31734c2d3c47194ddf6ef8cb43458d12',
+                        'format' : 'iframe',
+                        'height' : 300,
+                        'width' : 160,
+                        'params' : {}
+                    };
+                </script>
+                <script src="https://www.highperformanceformat.com/31734c2d3c47194ddf6ef8cb43458d12/invoke.js"></script>
+            </div>
+
             <div class="container">
                 <div style="text-align: center; max-width: 700px; margin: 0 auto 4rem;">
                     <h2 style="font-size: 2.5rem; margin-bottom: 1rem;">Required Documents</h2>
