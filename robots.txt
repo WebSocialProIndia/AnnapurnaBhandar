@@ -1,0 +1,7 @@
+# robots.txt for https://annapurnabhandars.in/
+
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://annapurnabhandars.in/sitemap.xml

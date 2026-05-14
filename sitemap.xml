@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Home Page -->
+  <url>
+    <loc>https://annapurnabhandars.in/</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- About Us Page -->
+  <url>
+    <loc>https://annapurnabhandars.in/about.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Contact Us Page -->
+  <url>
+    <loc>https://annapurnabhandars.in/contact.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Privacy Policy Page -->
+  <url>
+    <loc>https://annapurnabhandars.in/privacy.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <!-- Terms of Use Page -->
+  <url>
+    <loc>https://annapurnabhandars.in/terms.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
